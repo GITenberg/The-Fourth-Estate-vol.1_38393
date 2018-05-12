@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38393#The-Fourth-Estate-vol.1
 gutenberg_issued: '2011-12-23'
 gutenberg_type: Text
 identifiers:
