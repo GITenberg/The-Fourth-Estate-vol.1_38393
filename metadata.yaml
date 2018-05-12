@@ -1,0 +1,33 @@
+_repo: The-Fourth-Estate-vol.1_38393
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38393-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+description: ''
+gutenberg_issued: '2011-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+title: The Fourth Estate, vol. 1
+url: http://www.gutenberg.org/ebooks/38393
